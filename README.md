@@ -21,7 +21,7 @@ Supply chain | Developer | Data Analyst | Consultant
 </div> 
 <p></p>
 <p align="justify"> 
-welcome to my GitHub Page. I am Reza Shakeri and now Computer engineering student, I learn new things about programming and teach these things to others, I have been programming for almost more than 10 years and worked with many languages and technologies. Also, inside Instagram, I have a media called <a href="https://www.instagram.com/barnamenevisiinsta">Barnamenevisinsta</a> that shares everything I learn about programming.
+Hi there! Welcome to my GitHub Page. My name is Martin and I'm a writer on Medium who is passionate about supply chain, development, and data analytics. I believe that these fields are crucial to the success of businesses and organizations, and I'm committed to sharing my knowledge and expertise with others in the industry.
  
 
 </p>
