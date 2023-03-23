@@ -53,10 +53,6 @@ Hi there! Welcome to my GitHub Page. My name is Martin and I'm a geek who is pas
       <br>MySQL
     </td>
    <td align="center" width="96">
-        <img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/mysql/mysql-original.svg" alt="icon" width="65" height="65" />
-      <br>MySQL
-    </td>
-   <td align="center" width="96">
         <img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/microsoftsqlserver/microsoftsqlserver-plain.svg" alt="icon" width="65" height="65" />
       <br>Microsoft SQL Server
     </td>
