@@ -152,13 +152,13 @@ welcome to my GitHub Page. I am Reza Shakeri and now Computer engineering studen
   <summary>Activity Graph 📈</summary>
   <br/>
  
-<a href="https://github.com/ashutosh00710/github-readme-activity-graph"><img alt="rzashakeri's Activity Graph" src="https://github-readme-activity-graph.cyclic.app/graph?username=rzashakeri&bg_color=ffffff&color=000000&line=00ea70&point=403d3d&area=true&hide_border=true" /></a>
+<a href="https://github.com/ashutosh00710/github-readme-activity-graph"><img alt="houtmen's Activity Graph" src="https://github-readme-activity-graph.cyclic.app/graph?username=houtmen&bg_color=ffffff&color=000000&line=00ea70&point=403d3d&area=true&hide_border=true" /></a>
 </details>
 
 <details>
   <summary>Profile Views 👁️</summary>
   <br/>
-  <img src="https://komarev.com/ghpvc/?username=rzashakerie&label=PROFILE+VIEWS&style=for-the-badge&color=brightgreen">
+  <img src="https://komarev.com/ghpvc/?username=houtmen&label=PROFILE+VIEWS&style=for-the-badge&color=brightgreen">
 
 </details>
 
