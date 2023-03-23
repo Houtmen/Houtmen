@@ -37,24 +37,36 @@ Hi there! Welcome to my GitHub Page. My name is Martin and I'm a geek who is pas
       <br>Python
     </td>
     <td align="center" width="96">
-        <img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/jupyter/jupyter-original.svg" width="65" height="65" />
-      <br>Jupyter
+        <img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/javascript/javascript-original.svg" alt="icon" width="65" height="65" />
+      <br>Javascript
     </td>
     <td align="center" width="96">
-        <img src="https://techstack-generator.vercel.app/graphql-icon.svg" alt="icon" width="65" height="65" />
-      <br>GraphQL
+        <img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/java/java-original.svg" alt="icon" width="65" height="65" />
+      <br>Java
     </td>
     <td align="center" width="96">
-        <img src="https://techstack-generator.vercel.app/docker-icon.svg" alt="icon" width="65" height="65" />
-      <br>Docker
+        <img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/solidity/solidity-original.svg" alt="icon" width="65" height="65" />
+      <br>Solidity
     </td>
     <td align="center" width="96">
-        <img src="https://techstack-generator.vercel.app/restapi-icon.svg" alt="icon" width="65" height="65" />
-      <br>Rest
+        <img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/mysql/mysql-original.svg" alt="icon" width="65" height="65" />
+      <br>MySQL
     </td>
-    <td align="center" width="96">
-        <img src="https://techstack-generator.vercel.app/kubernetes-icon.svg" alt="icon" width="65" height="65" />
-      <br>Kubernetes
+   <td align="center" width="96">
+        <img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/mysql/mysql-original.svg" alt="icon" width="65" height="65" />
+      <br>MySQL
+    </td>
+   <td align="center" width="96">
+        <img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/microsoftsqlserver/microsoftsqlserver-plain.svg" alt="icon" width="65" height="65" />
+      <br>Microsoft SQL Server
+    </td>
+   <td align="center" width="96">
+        <img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/sqlalchemy/sqlalchemy-original.svg" alt="icon" width="65" height="65" />
+      <br>SQLAlchemy
+    </td>
+   <td align="center" width="96">
+        <img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/postgresql/postgresql-original.svg" width="65" height="65" alt="PostgreSQL" />
+      <br>PostgreSQL
     </td>
   </tr>
   <tr>
@@ -65,6 +77,10 @@ Hi there! Welcome to my GitHub Page. My name is Martin and I'm a geek who is pas
     <td align="center" width="96">
         <img src="https://user-images.githubusercontent.com/25181517/192108374-8da61ba1-99ec-41d7-80b8-fb2f7c0a4948.png" width="48" height="48" alt="GitHub" />
       <br>Github
+    </td>
+     <td align="center" width="96">
+        <img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/jupyter/jupyter-original.svg" width="65" height="65" />
+      <br>Jupyter
     </td>
     <td align="center"  width="96">
         <img src="https://user-images.githubusercontent.com/25181517/192108376-c675d39b-90f6-4073-bde6-5a9291644657.png" width="48" height="48" alt="GitLab" />
@@ -85,10 +101,6 @@ Hi there! Welcome to my GitHub Page. My name is Martin and I'm a geek who is pas
     <td align="center" width="96">
         <img src="https://skillicons.dev/icons?i=tailwind" width="48" height="48" alt="tailwind" />
       <br>Tailwind
-    </td>
-    <td align="center" width="96">
-        <img src="https://skillicons.dev/icons?i=postgres" width="48" height="48" alt="PostgreSQL" />
-      <br>PostgreSQL
     </td>
     <td align="center" width="96">
         <img src="https://skillicons.dev/icons?i=redis" width="48" height="48" alt="redis" />
