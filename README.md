@@ -9,7 +9,7 @@ Supply chain | Developer | Data Analyst | Consultant
 *   🧠  I'm learning The move language
   
 ### Skills 
-<img src="https://github-readme-stats.vercel.app/api/top-langs?username=Houtmen&layout=compact"/>
+<img src="https://github-readme-stats.vercel.app/api?username=Houtmen&show_icons=true"/>
                     
 ### Socials
                   
