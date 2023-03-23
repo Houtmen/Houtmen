@@ -21,7 +21,7 @@ Supply chain | Developer | Data Analyst | Consultant
 </div> 
 <p></p>
 <p align="justify"> 
-Hi there! Welcome to my GitHub Page. My name is Martin and I'm a writer on Medium who is passionate about supply chain, development, and data analytics. I believe that these fields are crucial to the success of businesses and organizations, and I'm committed to sharing my knowledge and expertise with others in the industry.
+Hi there! Welcome to my GitHub Page. My name is Martin and I'm a geek who is passionate about supply chain, development, and data analytics. I believe that these fields are crucial to the success of businesses and organizations, and I'm committed to sharing my knowledge and expertise with others in the industry.
  
 
 </p>
