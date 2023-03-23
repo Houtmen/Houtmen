@@ -4,9 +4,10 @@ Hi ![](https://user-images.githubusercontent.com/18350557/176309783-0785949b-912
 Supply chain | Developer | Data Analyst | Consultant
 --------------------------------------------------------------------------
 
-*   🖥️  See my portfolio at [Github](http://github.com/Houtmen)
+*   🖥️  See my portfolio at [Github](http://github.com/Houtmen/Portfolio)
 *   ✉️  You can contact me at [houtman80@gmail.com](mailto:houtman80@gmail.com)
 *   🧠  I'm learning The move language
+  
   
 ### Stats
 <img src="https://github-readme-stats.vercel.app/api?username=Houtmen&show_icons=true"/>
@@ -19,7 +20,8 @@ Supply chain | Developer | Data Analyst | Consultant
 <img height=50 src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/pandas/pandas-original.svg" />
 <img height=50 src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/git/git-plain.svg"/>
 <img height=50 src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/github/github-original.svg"/>
-<img height=50 src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/canva/canva-original.svg"/>
+<img height=50 src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/matplotlib/matplotlib-original.svg"/>
+<img height=50 src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/sklearn/sklearn-original.svg"/>
                     
 ### Socials
                   
