@@ -88,6 +88,10 @@ Hi there! Welcome to my GitHub Page. My name is Martin and I'm a geek who is pas
         <img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/pandas/pandas-original.svg" width="65" height="65" alt="Pandas" />
       <br>Pandas
     </td>
+  <td align="center" width="96">
+        <img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/numpy/numpy-original.svg" width="65" height="65" alt="Pandas" />
+      <br>Numpy
+    </td>
             <td align="center"  width="96">
         <img src="https://skillicons.dev/icons?i=html" width="65" height="65" alt="HTML" />
       <br>HTML
