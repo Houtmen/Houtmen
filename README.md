@@ -86,9 +86,3 @@ I'm always open to exchange ideas or collaborate.
   <a href="https://www.linkedin.com/in/martin-houtman/"><img src="https://img.shields.io/badge/Connect%20on%20LinkedIn-0A66C2?style=for-the-badge&logo=linkedin&logoColor=white" alt="LinkedIn"></a>
 </p>
 
-<details>
-  <summary>GitHub activity</summary>
-  <br/>
-  <img alt="GitHub stats" src="https://github-readme-stats.vercel.app/api/?username=houtmen&show_icons=true&count_private=true&hide_border=true&theme=default&title_color=00A86B&icon_color=00A86B" height="165px"/>
-  <img alt="Top languages" src="https://github-readme-stats.vercel.app/api/top-langs/?username=houtmen&langs_count=8&layout=compact&hide_border=true&theme=default&title_color=00A86B" height="165px"/>
-</details>
