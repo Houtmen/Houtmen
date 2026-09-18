@@ -1,135 +1,94 @@
-Hi ![](https://user-images.githubusercontent.com/18350557/176309783-0785949b-9127-417c-8b55-ab5a4333674e.gif)My name is Houtman
-===============================================================================================================================
+<h1 align="center">Martin Houtman</h1>
 
-Supply chain | Developer | Data Analyst | Consultant
---------------------------------------------------------------------------
-
-<div align="justify">
- 
-<a href="https://twitter.com/Houtman_Woodman">
-<img src="https://img.shields.io/badge/Twitter-%231DA1F2.svg?style=for-the-badge&logo=Twitter&logoColor=white">
-</a>
-&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;
-<a href="https://www.linkedin.com/in/martin-houtman/">
-<img src="https://img.shields.io/badge/Linkedin-%231DA1F2.svg?style=for-the-badge&logo=Linkedin&logoColor=white">
-</a>
-&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;
-<a href="https://houtman80.medium.com/">
-<img src="https://img.shields.io/badge/Medium-12100E?style=for-the-badge&logo=medium&logoColor=white">
-</a>
- 
-</div> 
-<p></p>
-<p align="justify"> 
-Hi there! Welcome to my GitHub Page. My name is Martin and I'm a geek who is passionate about supply chain, development, and data analytics. I believe that these fields are crucial to the success of businesses and organizations, and I'm committed to sharing my knowledge and expertise with others in the industry.
- 
-
+<p align="center">
+  <b>Supply Chain Engineer &nbsp;·&nbsp; Logistics Software Developer &nbsp;·&nbsp; Data Analyst</b>
 </p>
 
-## My favorite tools and technologies ⚙️ 
+<p align="center">
+  I build software for warehouses, distribution and transport —<br>
+  forecasting, picking optimisation, scanning and track &amp; trace.
+</p>
 
-> Tools and technologies that I have worked with and am interested in
+<p align="center">
+  <a href="https://www.linkedin.com/in/martin-houtman/"><img src="https://img.shields.io/badge/LinkedIn-0A66C2?style=flat-square&logo=linkedin&logoColor=white" alt="LinkedIn"></a>
+  <a href="https://houtman80.medium.com/"><img src="https://img.shields.io/badge/Medium-000000?style=flat-square&logo=medium&logoColor=white" alt="Medium"></a>
+  <a href="https://twitter.com/Houtman_Woodman"><img src="https://img.shields.io/badge/X-000000?style=flat-square&logo=x&logoColor=white" alt="X"></a>
+  <img src="https://img.shields.io/badge/Open%20to-Logistics%20projects-00A86B?style=flat-square" alt="Open to work">
+</p>
 
-<table>
-  <tr>
-    <td align="center" width="96">
-        <img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/python/python-original.svg" alt="Python" width="65" height="65" />
-      <br>Python
-    </td>
-    <td align="center" width="96">
-        <img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/javascript/javascript-original.svg" alt="JavaScript" width="65" height="65" />
-      <br>JavaScript
-    </td>
-    <td align="center" width="96">
-        <img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/java/java-original.svg" alt="Java" width="65" height="65" />
-      <br>Java
-    </td>
-    <td align="center" width="96">
-        <img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/solidity/solidity-original.svg" alt="Solidity" width="65" height="65" />
-      <br>Solidity
-    </td>
-    <td align="center" width="96">
-        <img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/mysql/mysql-original.svg" alt="icon" width="65" height="65" />
-      <br>MySQL
-    </td>
-   <td align="center" width="96">
-        <img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/microsoftsqlserver/microsoftsqlserver-plain.svg" alt="Microsoft SQL Server" width="65" height="65" />
-      <br>Microsoft SQL Server
-    </td>
-   <td align="center" width="96">
-        <img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/sqlalchemy/sqlalchemy-original.svg" alt="SQLAlchemy" width="65" height="65" />
-      <br>SQLAlchemy
-    </td>
-   <td align="center" width="96">
-        <img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/postgresql/postgresql-original.svg" width="65" height="65" alt="PostgreSQL" />
-      <br>PostgreSQL
-    </td>
-  </tr>
-  <tr>
-    <td align="center" width="96"> 
-        <img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/git/git-original.svg" width="65" height="65" alt="Git" />
-      <br>Git
-    </td>
-    <td align="center" width="96">
-        <img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/github/github-original.svg" width="65" height="65" alt="GitHub" />
-      <br>Github
-    </td>
-     <td align="center" width="96">
-        <img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/jupyter/jupyter-original.svg" width="65" height="65" />
-      <br>Jupyter
-    </td>
-    <td align="center"  width="96">
-        <img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/visualstudio/visualstudio-plain.svg" width="65" height="65" alt="Visual Studio Code" />
-      <br>Visual Studio Code
-    </td>
-  </tr>
- <tr>
-      <td align="center" width="96">
-        <img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/pandas/pandas-original.svg" width="65" height="65" alt="Pandas" />
-      <br>Pandas
-    </td>
-  <td align="center" width="96">
-        <img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/numpy/numpy-original.svg" width="65" height="65" alt="Pandas" />
-      <br>Numpy
-    </td>
-            <td align="center"  width="96">
-        <img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/html5/html5-original.svg" width="65" height="65" alt="HTML" />
-      <br>HTML
-    </td>
-    <td align="center" width="96">
-        <img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/css3/css3-original.svg" width="65" height="65" alt="css" />
-      <br>CSS
-    </td>
-    <td align="center"  width="96">
-        <img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/bootstrap/bootstrap-original.svg" width="65" height="65" alt="bootstrap" />
-      <br>Bootstrap
-    </td>
- </tr>
-</table>
+---
 
+## What I do
 
-## Github stats 📊 
+I work where **supply chain operations meet software**. Most of my time goes into building
+practical applications that make warehouse and distribution processes measurably faster,
+more accurate and more predictable.
 
-<details> 
-  <summary>GitHub Profile Stats 💻</summary>
-  <br/>
-    <a href="https://github.com/houtmen/github-readme-stats"><img alt="houtmen's Github Stats" src="https://github-readme-stats.vercel.app/api/?username=houtmen&show_icons=true&count_private=true&theme=default&hide_border=true&bg_color=fff&title_color=00E676&icon_color=00E676" height="192px"/></a>
-  <a href="https://github.com/houtmen/github-readme-stats"><img alt="houtmen's Top Languages" src="https://github-readme-stats.vercel.app/api/top-langs/?username=houtmen&langs_count=8&layout=compact&theme=default&hide_border=true&bg_color=fff&title_color=000&icon_color=000&hide=Jupyter%20Notebook" height="192px"/></a>
-  <br/>
-</details>
+- **Demand forecasting &amp; inventory intelligence** — turning ERP data into forecasts, safety stock and purchase advice
+- **Warehouse execution** — pick path optimisation, pick waves, ergonomics and compliance rules
+- **Scanning &amp; identification** — barcode/EAN scanning apps for product and stock handling
+- **Track &amp; trace** — real-time visibility of shipments, trucks and goods movements
+- **Data analytics** — KPI dashboards, bottleneck analysis and operational reporting
+
+---
+
+## Selected work
+
+| Project | What it solves | Domain |
+| --- | --- | --- |
+| **[Forecasting Platform](https://github.com/Houtmen/forecasting-platform)** | Demand forecasts (7/14/30/90d) with model selection &amp; backtesting, safety stock, reorder advice, churn risk and what-if scenarios | Demand planning · Inventory |
+| **[FlowForge — Warehouse Picking Solution](https://github.com/Houtmen/Warehouse-picking-solution)** | Layout editor, A* pick path optimisation, cold-chain &amp; ADR compliance, picker simulation, heatmaps and performance scoring | Warehouse execution |
+| **[Barcode Scan App](https://github.com/Houtmen/barcode-scan)** | Camera-based EAN scanning with instant product lookup, desktop and mobile | Scanning · Inbound/outbound |
+| **[Truck Tracking Web App](https://github.com/Houtmen/Truck-Tracking-Web-App)** | Real-time truck positions and travelled routes on a live map | Transport visibility |
+| **[City-Wide Delivery Platform](https://github.com/Houtmen/City-Wide-Delivery-Platform)** | Open API platform for urban delivery and last-mile coordination | Last mile |
+| **[Goods Movement Smart Contract](https://github.com/Houtmen/tracking-movement-of-goods-smart-contract)** | Tamper-proof tracking of goods movements across the supply chain | Supply chain traceability |
+
+---
+
+## How I work
+
+```
+ERP / WMS / TMS data  →  modelling & forecasting  →  optimisation engine  →  dashboards & shop-floor apps
+```
+
+- Start from the **operational problem**, not the technology
+- Validate models with **backtesting and real KPIs** (WAPE, bias, pick rate, travel distance)
+- Ship tools that **planners and warehouse staff actually use**
+- Keep deployments simple: browser-based tools, containerised APIs, clean documentation
+
+---
+
+## Toolbox
+
+<p>
+  <img src="https://img.shields.io/badge/Python-3776AB?style=flat-square&logo=python&logoColor=white">
+  <img src="https://img.shields.io/badge/JavaScript-F7DF1E?style=flat-square&logo=javascript&logoColor=black">
+  <img src="https://img.shields.io/badge/Java-007396?style=flat-square&logo=openjdk&logoColor=white">
+  <img src="https://img.shields.io/badge/FastAPI-009688?style=flat-square&logo=fastapi&logoColor=white">
+  <img src="https://img.shields.io/badge/Pandas-150458?style=flat-square&logo=pandas&logoColor=white">
+  <img src="https://img.shields.io/badge/NumPy-013243?style=flat-square&logo=numpy&logoColor=white">
+  <img src="https://img.shields.io/badge/scikit--learn-F7931E?style=flat-square&logo=scikitlearn&logoColor=white">
+  <img src="https://img.shields.io/badge/PostgreSQL-4169E1?style=flat-square&logo=postgresql&logoColor=white">
+  <img src="https://img.shields.io/badge/SQL%20Server-CC2927?style=flat-square&logo=microsoftsqlserver&logoColor=white">
+  <img src="https://img.shields.io/badge/Docker-2496ED?style=flat-square&logo=docker&logoColor=white">
+  <img src="https://img.shields.io/badge/Redis-DC382D?style=flat-square&logo=redis&logoColor=white">
+  <img src="https://img.shields.io/badge/Git-F05032?style=flat-square&logo=git&logoColor=white">
+</p>
+
+---
+
+## Let's talk logistics
+
+Working on forecasting, warehouse optimisation, scanning or track &amp; trace?
+I'm always open to exchange ideas or collaborate.
+
+<p>
+  <a href="https://www.linkedin.com/in/martin-houtman/"><img src="https://img.shields.io/badge/Connect%20on%20LinkedIn-0A66C2?style=for-the-badge&logo=linkedin&logoColor=white" alt="LinkedIn"></a>
+</p>
 
 <details>
-  <summary>Activity Graph 📈</summary>
+  <summary>GitHub activity</summary>
   <br/>
- 
-<a href="https://github.com/ashutosh00710/github-readme-activity-graph"><img alt="houtmen's Activity Graph" src="https://github-readme-activity-graph.cyclic.app/graph?username=houtmen&bg_color=ffffff&color=000000&line=00ea70&point=403d3d&area=true&hide_border=true" /></a>
+  <img alt="GitHub stats" src="https://github-readme-stats.vercel.app/api/?username=houtmen&show_icons=true&count_private=true&hide_border=true&theme=default&title_color=00A86B&icon_color=00A86B" height="165px"/>
+  <img alt="Top languages" src="https://github-readme-stats.vercel.app/api/top-langs/?username=houtmen&langs_count=8&layout=compact&hide_border=true&theme=default&title_color=00A86B" height="165px"/>
 </details>
-
-<details>
-  <summary>Profile Views 👁️</summary>
-  <br/>
-  <img src="https://komarev.com/ghpvc/?username=houtmen&label=PROFILE+VIEWS&style=for-the-badge&color=brightgreen">
-
-</details>
-
-<img data-target="animated-image.replacedImage" alt="dino.gif" class="AnimatedImagePlayer-animatedImage" src="https://github.com/saadeghi/saadeghi/raw/master/dino.gif" style="display: block; opacity: 1;">
