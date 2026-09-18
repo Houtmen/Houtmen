@@ -34,9 +34,18 @@ more accurate and more predictable.
 
 ## Selected work
 
+### Client work (private repositories)
+
+> Some projects are delivered for clients and remain private by agreement. I can share scope and outcomes, but not source code.
+
 | Project | What it solves | Domain |
 | --- | --- | --- |
-| **[Forecasting Platform](https://github.com/Houtmen/forecasting-platform)** | Demand forecasts (7/14/30/90d) with model selection &amp; backtesting, safety stock, reorder advice, churn risk and what-if scenarios | Demand planning · Inventory |
+| **Forecasting Platform** *(private)* | Demand forecasts (7/14/30/90d) with model selection &amp; backtesting, safety stock, reorder advice, churn risk and what-if scenarios | Demand planning · Inventory |
+
+### Open source &amp; demos
+
+| Project | What it solves | Domain |
+| --- | --- | --- |
 | **[FlowForge — Warehouse Picking Solution](https://github.com/Houtmen/Warehouse-picking-solution)** | Layout editor, A* pick path optimisation, cold-chain &amp; ADR compliance, picker simulation, heatmaps and performance scoring | Warehouse execution |
 | **[Barcode Scan App](https://github.com/Houtmen/barcode-scan)** | Camera-based EAN scanning with instant product lookup, desktop and mobile | Scanning · Inbound/outbound |
 | **[Truck Tracking Web App](https://github.com/Houtmen/Truck-Tracking-Web-App)** | Real-time truck positions and travelled routes on a live map | Transport visibility |
@@ -86,3 +95,9 @@ I'm always open to exchange ideas or collaborate.
   <a href="https://www.linkedin.com/in/martin-houtman/"><img src="https://img.shields.io/badge/Connect%20on%20LinkedIn-0A66C2?style=for-the-badge&logo=linkedin&logoColor=white" alt="LinkedIn"></a>
 </p>
 
+<details>
+  <summary>GitHub activity</summary>
+  <br/>
+  <img alt="GitHub stats" src="https://github-readme-stats.vercel.app/api/?username=houtmen&show_icons=true&count_private=true&hide_border=true&theme=default&title_color=00A86B&icon_color=00A86B" height="165px"/>
+  <img alt="Top languages" src="https://github-readme-stats.vercel.app/api/top-langs/?username=houtmen&langs_count=8&layout=compact&hide_border=true&theme=default&title_color=00A86B" height="165px"/>
+</details>
