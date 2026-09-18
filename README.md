@@ -41,6 +41,8 @@ more accurate and more predictable.
 | Project | What it solves | Domain |
 | --- | --- | --- |
 | **Forecasting Platform** *(private)* | Demand forecasts (7/14/30/90d) with model selection &amp; backtesting, safety stock, reorder advice, churn risk and what-if scenarios | Demand planning · Inventory |
+| **WMS Integration Suite** *(private)* | Connecting warehouse management systems to ERP/carrier platforms — order sync, stock updates and shipment confirmations | Systems integration |
+| **Pick Optimisation for 3PL** *(private)* | Route and wave optimisation for a third-party logistics provider, reducing travel distance and improving pick rate per shift | Warehouse execution |
 
 ### Open source &amp; demos
 
